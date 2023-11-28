@@ -1,0 +1,9 @@
+html {
+    box-sizing: border-box;
+}
+/* it makes all the same size if you change padding and it does not work than chnage this */
+
+body{
+    margin: 0;
+    min-height: 100vh;
+}
